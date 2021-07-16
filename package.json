@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "创建 commit",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15955744737/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15955744737/docs/issues"
+  },
+  "homepage": "https://github.com/15955744737/docs#readme"
+}
